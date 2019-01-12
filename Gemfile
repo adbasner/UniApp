@@ -55,3 +55,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'unirest'
 gem 'jwt'
 gem 'rest-client', '>= 1.8'
+gem 'materialize-sass', '~> 1.0.0'
+gem 'material_icons'
